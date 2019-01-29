@@ -1,0 +1,11 @@
+{
+    "font": {
+        "instanceID": 0
+    },
+    "items": [
+        {
+            "key": "Dialogue_Debug",
+            "value": "The quick brown @9fox@ \\njumps over the l|2a|2z|2y|2 dog."
+        }
+    ]
+}
